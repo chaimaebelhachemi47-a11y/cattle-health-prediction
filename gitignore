@@ -1,0 +1,15 @@
+# Virtual environment (very big, and not needed on GitHub)
+cattle_env/
+
+# Data file (people should download it from Kaggle)
+data/*.xlsx
+data/*.csv
+
+# Python and notebook leftovers
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
